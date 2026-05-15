@@ -31,7 +31,7 @@ Optimizing gas fees on Base.done
 - Draft whitepaper: Token utility and governance.done
 - Prepare financial projections for investors.done
 - Create seed round pitch deck.done
-- Review legal compliance for token launch
+- Review legal compliance for token launch.done
 - Implement staking logic in smart contract
 - Calculate staking APY dynamically
 - Add unstaking lock-up period
