@@ -10,3 +10,93 @@ Optimizing gas fees on Base
 - Testing transactions on Base Sepolia Testnet
 - Writing Solidity code for the new crypto app
 - Connecting Web3 provider to Base mainnet
+- Design UI/UX for crypto portfolio dashboard
+- Set up React boilerplate for Web3 interface
+- Configure Hardhat for smart contract deployment
+- Add Base Goerli testnet to hardhat.config.js
+- Draft initial ERC20 token smart contract
+- Implement OpenZeppelin libraries for security
+- Write access control modifiers for admin roles
+- Create mock data for UI testing
+- Connect app to Coinbase Wallet via SDK
+- Integrate WalletConnect v2
+- Add Metamask connection fallback
+- Fetch real-time gas prices from Base network
+- Develop bridge UI for ETH to Base transfers
+- Write unit tests for token minting process
+- Write unit tests for token burning process
+- Set up GitHub Actions for CI/CD pipeline
+- Design tokenomics distribution chart
+- Draft whitepaper: Vision and Layer 2 benefits
+- Draft whitepaper: Token utility and governance
+- Prepare financial projections for investors
+- Create seed round pitch deck
+- Review legal compliance for token launch
+- Implement staking logic in smart contract
+- Calculate staking APY dynamically
+- Add unstaking lock-up period
+- Optimize contract to reduce gas fees
+- Deploy verifier contract on Base testnet
+- Integrate Ethers.js for blockchain interactions
+- Fetch user balances from RPC provider
+- Add custom error handling for failed transactions
+- Design landing page for angel investors
+- Set up MongoDB to index off-chain user data
+- Build API endpoint for historical price charts
+- Integrate Chainlink price feeds
+- Test Chainlink VRF for random rewards
+- Update user profile UI components
+- Fix layout bugs on mobile screens
+- Add multi-language support (i18n)
+- Refactor smart contract architecture
+- Conduct internal security audit on contracts
+- Fix reentrancy vulnerabilities
+- Add event emitters to Solidity contracts
+- Create subgraph on The Graph for data indexing
+- Write GraphQL queries for transaction history
+- Implement dark mode toggle in app
+- Add notification system for successful swaps
+- Design liquidity pool (LP) interfaces
+- Write logic for AMM price calculations
+- Deploy test liquidity pool on Uniswap V3 (Base)
+- Implement slippage tolerance settings
+- Add transaction deadline logic
+- Connect frontend to subgraph API
+- Polish investor pitch deck slides
+- Schedule meetings with venture capitals (VCs)
+- Prepare demo video of the dApp
+- Optimize website loading speed
+- Add web3 modal for easier onboarding
+- Integrate fiat-to-crypto onramp solutions
+- Test cross-chain messaging with LayerZero
+- Add social recovery wallet features
+- Update documentation in project wiki
+- Write contribution guidelines for developers
+- Set up Discord community server
+- Create community governance structure
+- Implement snapshot voting mechanisms
+- Deploy DAO treasury contract
+- Write script to automate airdrop distribution
+- Collect beta tester wallet addresses
+- Distribute testnet tokens to beta users
+- Gather feedback from early stage users
+- Fix UI bugs reported by beta testers
+- Upgrade React to latest version
+- Optimize Webpack bundle size
+- Add SEO meta tags to landing page
+- Secure API keys in environment variables
+- Set up monitoring with Sentry
+- Track user analytics with Mixpanel
+- Prepare mainnet deployment scripts
+- Verify smart contracts on BaseScan
+- Fund deployer wallet with Base ETH
+- Perform final testnet run-through
+- Lock team tokens in vesting contract
+- Initialize mainnet liquidity pool
+- Launch public beta version
+- Publish launch announcement on social media
+- Update whitepaper with mainnet addresses
+- Open source the frontend repository
+- Review gas usage metrics post-launch
+- Plan Phase 2 roadmap and features
+- Celebrate successful project deployment
