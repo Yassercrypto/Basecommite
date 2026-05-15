@@ -18,7 +18,7 @@ Optimizing gas fees on Base.done
 - Implement OpenZeppelin libraries for security.done
 - Write access control modifiers for admin roles.done
 - Create mock data for UI testing.done
-- Connect app to Coinbase Wallet via SDK
+- Connect app to Coinbase Wallet via SDK.done
 - Integrate WalletConnect v2
 - Add Metamask connection fallback
 - Fetch real-time gas prices from Base network
