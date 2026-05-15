@@ -7,3 +7,4 @@ Researching Layer 2 scaling solutions
 Optimizing gas fees on Base
 - Preparing pitch deck and tokenomics for funding
 - Integrating Coinbase Wallet SDK
+- Testing transactions on Base Sepolia Testnet
