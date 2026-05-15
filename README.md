@@ -30,7 +30,7 @@ Optimizing gas fees on Base.done
 - Draft whitepaper: Vision and Layer 2 .benefits.done
 - Draft whitepaper: Token utility and governance.done
 - Prepare financial projections for investors.done
-- Create seed round pitch deck
+- Create seed round pitch deck.done
 - Review legal compliance for token launch
 - Implement staking logic in smart contract
 - Calculate staking APY dynamically
