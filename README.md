@@ -32,7 +32,7 @@ Optimizing gas fees on Base.done
 - Prepare financial projections for investors.done
 - Create seed round pitch deck.done
 - Review legal compliance for token launch.done
-- Implement staking logic in smart contract
+- Implement staking logic in smart contract.done
 - Calculate staking APY dynamically
 - Add unstaking lock-up period
 - Optimize contract to reduce gas fees
