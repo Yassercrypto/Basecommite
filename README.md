@@ -9,3 +9,4 @@ Optimizing gas fees on Base
 - Integrating Coinbase Wallet SDK
 - Testing transactions on Base Sepolia Testnet
 - Writing Solidity code for the new crypto app
+- Connecting Web3 provider to Base mainnet
