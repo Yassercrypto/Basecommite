@@ -12,7 +12,7 @@ Optimizing gas fees on Base.done
 - Connecting Web3 provider to Base mainnet.done
 - Design UI/UX for crypto portfolio dashboard.done
 - Set up React boilerplate for Web3 interface.done
-- Configure Hardhat for smart contract deployment
+- Configure Hardhat for smart contract deployment.done
 - Add Base Goerli testnet to hardhat.config.js
 - Draft initial ERC20 token smart contract
 - Implement OpenZeppelin libraries for security
