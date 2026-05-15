@@ -5,7 +5,7 @@ base for future
 - Developing smart contracts for the Base network.done
 Researching Layer 2 scaling solutions.done
 Optimizing gas fees on Base.done
-- Preparing pitch deck and tokenomics for funding
+- Preparing pitch deck and tokenomics for funding.done
 - Integrating Coinbase Wallet SDK
 - Testing transactions on Base Sepolia Testnet
 - Writing Solidity code for the new crypto app
