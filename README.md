@@ -16,7 +16,7 @@ Optimizing gas fees on Base.done
 - Add Base Goerli testnet to hardhat.config.js.done
 - Draft initial ERC20 token smart contract.done
 - Implement OpenZeppelin libraries for security.done
-- Write access control modifiers for admin roles
+- Write access control modifiers for admin roles.done
 - Create mock data for UI testing
 - Connect app to Coinbase Wallet via SDK
 - Integrate WalletConnect v2
