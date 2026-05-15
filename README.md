@@ -5,3 +5,4 @@ base for future
 - Developing smart contracts for the Base network
 Researching Layer 2 scaling solutions
 Optimizing gas fees on Base
+- Preparing pitch deck and tokenomics for funding
