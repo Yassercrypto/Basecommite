@@ -41,7 +41,7 @@ Optimizing gas fees on Base.done
 - Fetch user balances from RPC provider.done
 - Add custom error handling for failed .donetransactions.done
 - Design landing page for angel investors.done
-- Set up MongoDB to index off-chain user data
+- Set up MongoDB to index off-chain user data.done
 - Build API endpoint for historical price charts
 - Integrate Chainlink price feeds
 - Test Chainlink VRF for random rewards
