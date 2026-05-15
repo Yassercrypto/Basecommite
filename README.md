@@ -17,7 +17,7 @@ Optimizing gas fees on Base.done
 - Draft initial ERC20 token smart contract.done
 - Implement OpenZeppelin libraries for security.done
 - Write access control modifiers for admin roles.done
-- Create mock data for UI testing
+- Create mock data for UI testing.done
 - Connect app to Coinbase Wallet via SDK
 - Integrate WalletConnect v2
 - Add Metamask connection fallback
