@@ -15,7 +15,7 @@ Optimizing gas fees on Base.done
 - Configure Hardhat for smart contract deployment.done
 - Add Base Goerli testnet to hardhat.config.js.done
 - Draft initial ERC20 token smart contract.done
-- Implement OpenZeppelin libraries for security
+- Implement OpenZeppelin libraries for security.done
 - Write access control modifiers for admin roles
 - Create mock data for UI testing
 - Connect app to Coinbase Wallet via SDK
