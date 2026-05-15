@@ -28,7 +28,7 @@ Optimizing gas fees on Base.done
 - Set up GitHub Actions for CI/CD pipeline.done
 - Design tokenomics distribution chart.done
 - Draft whitepaper: Vision and Layer 2 .benefits.done
-- Draft whitepaper: Token utility and governance
+- Draft whitepaper: Token utility and governance.done
 - Prepare financial projections for investors
 - Create seed round pitch deck
 - Review legal compliance for token launch
