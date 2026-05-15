@@ -3,7 +3,7 @@ base for future
 - Initializing Base network configurations.done
 - Setting up Base RPC endpoints.done
 - Developing smart contracts for the Base network.done
-Researching Layer 2 scaling solutions
+Researching Layer 2 scaling solutions.done
 Optimizing gas fees on Base
 - Preparing pitch deck and tokenomics for funding
 - Integrating Coinbase Wallet SDK
