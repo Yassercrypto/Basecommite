@@ -1,6 +1,6 @@
 new# Basecommite
 base for future 
-- Initializing Base network configurations
+- Initializing Base network configurations.done
 - Setting up Base RPC endpoints
 - Developing smart contracts for the Base network
 Researching Layer 2 scaling solutions
