@@ -36,7 +36,7 @@ Optimizing gas fees on Base.done
 - Calculate staking APY dynamically.done
 - Add unstaking lock-up period.done
 - Optimize contract to reduce gas fees.done
-- Deploy verifier contract on Base testnet
+- Deploy verifier contract on Base testnet.done
 - Integrate Ethers.js for blockchain interactions
 - Fetch user balances from RPC provider
 - Add custom error handling for failed transactions
