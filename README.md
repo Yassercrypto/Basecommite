@@ -20,7 +20,7 @@ Optimizing gas fees on Base.done
 - Create mock data for UI testing.done
 - Connect app to Coinbase Wallet via SDK.done
 - Integrate WalletConnect v2.done
-- Add Metamask connection fallback
+- Add Metamask connection fallback.done
 - Fetch real-time gas prices from Base network
 - Develop bridge UI for ETH to Base transfers
 - Write unit tests for token minting process
