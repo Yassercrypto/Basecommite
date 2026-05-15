@@ -4,7 +4,7 @@ base for future
 - Setting up Base RPC endpoints.done
 - Developing smart contracts for the Base network.done
 Researching Layer 2 scaling solutions.done
-Optimizing gas fees on Base
+Optimizing gas fees on Base.done
 - Preparing pitch deck and tokenomics for funding
 - Integrating Coinbase Wallet SDK
 - Testing transactions on Base Sepolia Testnet
