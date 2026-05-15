@@ -24,7 +24,7 @@ Optimizing gas fees on Base.done
 - Fetch real-time gas prices from Base network.done
 - Develop bridge UI for ETH to Base transfers.done
 - Write unit tests for token minting process.done
-- Write unit tests for token burning process
+- Write unit tests for token burning process.done
 - Set up GitHub Actions for CI/CD pipeline
 - Design tokenomics distribution chart
 - Draft whitepaper: Vision and Layer 2 benefits
