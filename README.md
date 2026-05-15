@@ -7,7 +7,7 @@ Researching Layer 2 scaling solutions.done
 Optimizing gas fees on Base.done
 - Preparing pitch deck and tokenomics for funding.done
 - Integrating Coinbase Wallet SDK.done
-- Testing transactions on Base Sepolia Testnet
+- Testing transactions on Base Sepolia Testnet.done
 - Writing Solidity code for the new crypto app
 - Connecting Web3 provider to Base mainnet
 - Design UI/UX for crypto portfolio dashboard
