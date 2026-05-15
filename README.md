@@ -27,7 +27,7 @@ Optimizing gas fees on Base.done
 - Write unit tests for token burning process.done
 - Set up GitHub Actions for CI/CD pipeline.done
 - Design tokenomics distribution chart.done
-- Draft whitepaper: Vision and Layer 2 benefits
+- Draft whitepaper: Vision and Layer 2 .benefits.done
 - Draft whitepaper: Token utility and governance
 - Prepare financial projections for investors
 - Create seed round pitch deck
