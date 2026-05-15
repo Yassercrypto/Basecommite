@@ -38,7 +38,7 @@ Optimizing gas fees on Base.done
 - Optimize contract to reduce gas fees.done
 - Deploy verifier contract on Base testnet.done
 - Integrate Ethers.js for blockchain interactions.done
-- Fetch user balances from RPC provider
+- Fetch user balances from RPC provider.done
 - Add custom error handling for failed transactions
 - Design landing page for angel investors
 - Set up MongoDB to index off-chain user data
