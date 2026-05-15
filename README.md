@@ -29,7 +29,7 @@ Optimizing gas fees on Base.done
 - Design tokenomics distribution chart.done
 - Draft whitepaper: Vision and Layer 2 .benefits.done
 - Draft whitepaper: Token utility and governance.done
-- Prepare financial projections for investors
+- Prepare financial projections for investors.done
 - Create seed round pitch deck
 - Review legal compliance for token launch
 - Implement staking logic in smart contract
