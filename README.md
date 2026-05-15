@@ -22,7 +22,7 @@ Optimizing gas fees on Base.done
 - Integrate WalletConnect v2.done
 - Add Metamask connection fallback.done
 - Fetch real-time gas prices from Base network.done
-- Develop bridge UI for ETH to Base transfers
+- Develop bridge UI for ETH to Base transfers.done
 - Write unit tests for token minting process
 - Write unit tests for token burning process
 - Set up GitHub Actions for CI/CD pipeline
