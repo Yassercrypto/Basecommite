@@ -10,7 +10,7 @@ Optimizing gas fees on Base.done
 - Testing transactions on Base Sepolia Testnet.done
 - Writing Solidity code for the new crypto app.done
 - Connecting Web3 provider to Base mainnet.done
-- Design UI/UX for crypto portfolio dashboard
+- Design UI/UX for crypto portfolio dashboard.done
 - Set up React boilerplate for Web3 interface
 - Configure Hardhat for smart contract deployment
 - Add Base Goerli testnet to hardhat.config.js
