@@ -34,7 +34,7 @@ Optimizing gas fees on Base.done
 - Review legal compliance for token launch.done
 - Implement staking logic in smart contract.done
 - Calculate staking APY dynamically.done
-- Add unstaking lock-up period
+- Add unstaking lock-up period.done
 - Optimize contract to reduce gas fees
 - Deploy verifier contract on Base testnet
 - Integrate Ethers.js for blockchain interactions
